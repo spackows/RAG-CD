@@ -85,6 +85,8 @@ These posters were presented at [CASCON](https://cascon.ca) 2024:
 - [The role of technical writers in the age of RAG and agentic LLM solutions](https://medium.com/@sarah-packowski/the-role-of-technical-writers-in-the-age-of-rag-and-agentic-llm-solutions-e1196a4847da)
 - [Information typing is the professional writer’s secret ingredient for RAG success](https://medium.com/@sarah-packowski/information-typing-is-the-professional-writers-secret-ingredient-for-rag-success-fee84c544515)
 - [The unintended impact of Wikipedia on RAG best practices](https://sarah-packowski.medium.com/the-unintended-impact-of-wikipedia-on-rag-best-practices-00821aa2d9aa)
+- [The API wars are upon us](https://medium.com/@sarah-packowski/the-api-wars-are-upon-us-ee24c5682065)
+- [Make sure AI agents can read your API reference information](https://medium.com/@sarah-packowski/make-sure-ai-agents-can-get-at-your-api-reference-information-2abe6e87922c)
 
 <p>&nbsp;</p>
 
