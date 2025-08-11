@@ -13,9 +13,10 @@ https://www.icaai.org
 
 **Quick links:**
 - [Paper](#paper)
-- [Presentation](#presentation)
+- [Paper presentation](#paper-presentation)
 - [Posters](#posters)
 - [Blog posts](#blog-posts)
+- [Related presentations](#related-presentations)
 - [Content rewriting experiment](Natural-Questions/README.md)
 - [Sample notebooks](#sample-notebooks)
 
@@ -30,7 +31,7 @@ https://www.icaai.org
 <p>&nbsp;</p>
 
 
-## Presentation
+## Paper presentation
 - [Slides](RAG-A-CD-Perspective_presentation-slides.pdf)
 - [Video](https://youtu.be/4ZPe-8rAl-k)
 
@@ -87,6 +88,15 @@ These posters were presented at [CASCON](https://cascon.ca) 2024:
 - [The unintended impact of Wikipedia on RAG best practices](https://sarah-packowski.medium.com/the-unintended-impact-of-wikipedia-on-rag-best-practices-00821aa2d9aa)
 - [The API wars are upon us](https://medium.com/@sarah-packowski/the-api-wars-are-upon-us-ee24c5682065)
 - [Make sure AI agents can read your API reference information](https://medium.com/@sarah-packowski/make-sure-ai-agents-can-get-at-your-api-reference-information-2abe6e87922c)
+- [Natural language interfaces powered by large language models](https://medium.com/@sarah-packowski/natural-language-interfaces-powered-by-large-language-models-e2fe04cc541e)
+
+<p>&nbsp;</p>
+
+
+## Related presentations
+- [Writers are needed more than ever! (Growing in Content 2025)](https://github.com/spackows/Growing-in-Content_2025)
+- [Question-driven content design (ConvEx 2025)](https://github.com/spackows/ConVEx-2025)
+- [Natural language interfaces powered by large language models (CASCON 2024 workshop)](https://github.com/spackows/CASCON-2024_NL-interfaces)
 
 <p>&nbsp;</p>
 
